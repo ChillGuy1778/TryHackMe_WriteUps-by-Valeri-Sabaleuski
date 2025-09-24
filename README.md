@@ -11,7 +11,6 @@ Practical write-ups for TryHackMe and training labs. Demonstrating reconnaissanc
 ## What's inside
 - [Rooms](rooms/) — completed write-ups (README, `commands.txt`, `screenshots/`)  
 - [Templates](templates/) — write-up template  
-- [ABOUT_ME.md](ABOUT_ME.md) — short bio and contact info  
 - [PUBLISH_POLICY.md](PUBLISH_POLICY.md) — publication policy
 
 ## Top cases

@@ -1,5 +1,5 @@
 [![Last commit](https://img.shields.io/github/last-commit/USERNAME/THM-Writeups)](https://github.com/USERNAME/THM-Writeups/commits/main)
-[![License](https://img.shields.io/badge/license-CC%20BY--NC--SA-blue)](LICENSE)
+[![License](https://img.shields.io/badge/license-CC%20BY--NC--SA-blue)](LICENSE.md)
 
 # TryHackMe_WriteUps — Valeri Sabaleuski
 Practical write-ups for TryHackMe and training labs. Demonstrating reconnaissance, exploitation, and post-exploit skills.

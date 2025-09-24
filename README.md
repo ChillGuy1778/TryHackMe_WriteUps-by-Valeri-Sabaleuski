@@ -11,7 +11,7 @@ Practical write-ups for TryHackMe and training labs. Demonstrating reconnaissanc
 ## What's inside
 - [Rooms](rooms/) — completed write-ups (README, `commands.txt`, `screenshots/`)  
 - [Templates](templates/) — write-up template  
-- [PUBLISH_POLICY.md](PUBLISH_POLICY.md) — publication policy
+- [LICENSE.md](LICENSE.md) — license
 
 ## Top cases
 - [2025-09-01-guestbook](rooms/2025-09-01-guestbook/) — RCE via unsanitized input  

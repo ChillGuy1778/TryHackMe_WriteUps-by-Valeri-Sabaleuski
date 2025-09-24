@@ -33,6 +33,6 @@ _Last updated: 2025-09-24_
 ---
 
 ## Publication policy
-Flags are redacted and personal/confidential data is never published. See [PUBLISH_POLICY.md](PUBLISH_POLICY.md) for details.
+Flags are redacted and personal/confidential data is never published. See [LICENSE](LICENSE.md) for details.
 
 License: CC BY-NC-SA
